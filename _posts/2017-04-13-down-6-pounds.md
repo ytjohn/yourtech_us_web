@@ -2,7 +2,7 @@
 ID: 46
 post_title: Down 6 pounds
 author: ytjohn
-post_date: 2017-04-13 08:58:30
+post_date: 2017-04-13 08:58:11
 post_excerpt: ""
 layout: post
 permalink: https://new.yourtech.us/?p=46
