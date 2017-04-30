@@ -2,11 +2,11 @@
 ID: 96
 post_title: Using puppet to install djbdns
 author: ytjohn
-post_date: 2017-04-30 21:42:54
+post_date: 2011-04-05 21:42:54
 post_excerpt: ""
 layout: post
 permalink: https://new.yourtech.us/?p=96
-published: false
+published: true
 ---
 This is a basic walkthrough of getting a slightly complex "step by step
 to install" program like djbdns to install under puppet (in this case,
