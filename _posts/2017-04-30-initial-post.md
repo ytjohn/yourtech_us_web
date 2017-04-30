@@ -13,3 +13,4 @@ this is an initial warm-up post
 this line was added from github.
 
 this one too.
+finally switched to application.json
