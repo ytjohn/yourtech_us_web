@@ -1,6 +1,8 @@
 ---
 post_date: 2017-04-19 08:37:08 
 post_title: Cable Combs
+layout: post
+published: true
 ---
 
 I've been incrementally updating my home lab, and now I really wish I had a 3D printer. These cable combs look like they would be awesome for when it comes to getting the server rack re-organized.
