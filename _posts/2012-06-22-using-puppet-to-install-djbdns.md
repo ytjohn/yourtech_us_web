@@ -2,7 +2,7 @@
 ID: 96
 post_title: Using puppet to install djbdns
 author: ytjohn
-post_date: 2011-04-05 21:42:54
+post_date: 2012-06-22 12:30:54
 post_excerpt: ""
 layout: post
 permalink: https://new.yourtech.us/?p=96
